@@ -2,7 +2,7 @@
 
 I am a passionate CS student at FSU, driven by a curiosity for technology and a love for design. My journey involves delving into the world of computer science, exploring new ideas, and making cool software!
 
-[![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokc-choy)](https://github.com/bokc-choy/github-readme-stats)
+[![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokc-choy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About Me
 
